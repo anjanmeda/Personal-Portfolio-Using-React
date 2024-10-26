@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio-Using-React/static/css/main.d1bf2043.css",
+    "main.js": "/Personal-Portfolio-Using-React/static/js/main.ab885334.js",
+    "static/js/453.b21437c2.chunk.js": "/Personal-Portfolio-Using-React/static/js/453.b21437c2.chunk.js",
+    "static/media/portfolio.png": "/Personal-Portfolio-Using-React/static/media/portfolio.57ee6c14eab2bafcf07c.png",
+    "static/media/color-sharp.png": "/Personal-Portfolio-Using-React/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/Personal-Portfolio-Using-React/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/sentiment.webp": "/Personal-Portfolio-Using-React/static/media/sentiment.323d48ac9d30f5fe51e7.webp",
+    "static/media/AI.webp": "/Personal-Portfolio-Using-React/static/media/AI.8b42f5c6738338d0f1b4.webp",
+    "static/media/banner-bg.png": "/Personal-Portfolio-Using-React/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/Personal-Portfolio-Using-React/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/Personal-Portfolio-Using-React/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Personal-Portfolio-Using-React/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Personal-Portfolio-Using-React/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/Personal-Portfolio-Using-React/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/Personal-Portfolio-Using-React/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/logo.svg": "/Personal-Portfolio-Using-React/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/nav-icon3.svg": "/Personal-Portfolio-Using-React/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/Personal-Portfolio-Using-React/index.html",
+    "static/media/nav-icon1.svg": "/Personal-Portfolio-Using-React/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.d1bf2043.css.map": "/Personal-Portfolio-Using-React/static/css/main.d1bf2043.css.map",
+    "main.ab885334.js.map": "/Personal-Portfolio-Using-React/static/js/main.ab885334.js.map",
+    "453.b21437c2.chunk.js.map": "/Personal-Portfolio-Using-React/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1bf2043.css",
+    "static/js/main.ab885334.js"
+  ]
+}
